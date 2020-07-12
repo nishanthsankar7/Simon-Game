@@ -1,3 +1,3 @@
 # Simon-Game
 A Fun Game Using jQuery
-<img src="sounds/simon_game">
+<img src="sounds/Simon_game.png">
